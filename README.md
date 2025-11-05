@@ -14,7 +14,7 @@ Universidad Católica de Colombia
 
 ## 💡 Objetivo del Taller
 
-Implementar y gestionar una API RESTful con **FastAPI** para manejar la información central usando el proyecto de esta materia ( NutriBox),este incluye los modelos :
+Implementar y gestionar una API RESTful con **FastAPI** para manejar la información central usando el proyecto de esta materia ( NutriBox),este incluye los modelos : 
 
 - Usuarios  
 - Hijos  
