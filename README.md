@@ -35,7 +35,7 @@ Implementar y gestionar una API RESTful con **FastAPI** para manejar la informac
 
 ## ⚙️ Instalación y Configuración
 
-debemos seguir unos pasos en la  terminal (se recomienda Git Bash) para levantar el servidor localmente:
+Debemos seguir unos pasos en la  terminal (se recomienda Git Bash) para levantar el servidor localmente:
 
 ### 1️⃣ Clonar el Repositorio
 ```bash
